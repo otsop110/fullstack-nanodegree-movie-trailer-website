@@ -5,9 +5,9 @@ Aim of this project is to learn how to write an application using object-oriente
 
 ## Project Requirements / Features
 
-* Writing server side code to store a list of movie titles, box art, poster images, and movie trailer URLs
+* Writing server side code to store a list of movie titles, box art, poster images, and movie trailer URLs.
 * The data will be expressed on the web page and allow users to review the movies and watch the trailers.
-* Project works the way it's supposed to: movies and their poster images are displayed on the web page, there is a trailer link and it open from the Python file error free.
+* Project works the way it's supposed to: movies and their poster images are displayed on the web page, there is a trailer link and it opens from the Python file error free.
 * Code is organised and professional.
 * Comments are used when needed.
 
