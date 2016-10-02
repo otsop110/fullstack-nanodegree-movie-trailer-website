@@ -1,5 +1,8 @@
 import webbrowser
 
+# This is where the class Movie is defined. I left the storyline here
+# for further development. It is not needed in this project.
+
 class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
@@ -9,5 +12,5 @@ class Movie():
 
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
-            
-        
+
+

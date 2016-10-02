@@ -1,6 +1,9 @@
 import fresh_tomatoes
 import media
 
+# This is where instances of the class Movie are defined.
+# Please note that storyline is here too, even if it has not been used in this project.
+
 amelie = media.Movie("Amelie",
                         "Amelie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
                         "https://upload.wikimedia.org/wikipedia/en/5/53/Amelie_poster.jpg",
